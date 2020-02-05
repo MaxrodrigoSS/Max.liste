@@ -1,0 +1,22 @@
+{
+  "name": "max.liste",
+  "version": "1.0.0",
+  "description": "site de infomação de filmes e etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxrodrigoSS/Max.liste.git"
+  },
+  "author": "Max Rodrigo S. Santiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxrodrigoSS/Max.liste/issues"
+  },
+  "homepage": "https://github.com/MaxrodrigoSS/Max.liste#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
